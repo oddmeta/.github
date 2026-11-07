@@ -8,3 +8,6 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+
+关注我的公众号：奥德元。一起学习AI，一起追赶时代。有事+wx: oddmeta 交流群: 8655372
+
