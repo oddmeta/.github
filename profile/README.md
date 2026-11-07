@@ -8,10 +8,9 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+技术创新控，坚持,执着,倒霉的乐观主义者。一起学习AI，一起追赶时代。Good good study, day day up.
 
-关注我的公众号：`奥德元`， 以及新申请的X: `oddmet`
-
-一起学习AI，一起追赶时代。
+欢迎关注我的公众号：`奥德元`， 以及新申请的X: `oddmet`
 
 有事+wx: `oddmeta` 交流群: `8655372`
 
